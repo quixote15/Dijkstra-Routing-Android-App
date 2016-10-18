@@ -1,0 +1,1 @@
+{"id":"java","ext":"java","version":"JDK 1.7.0","compile":"javac Airline.java Grafo.java Dijkstra.java Pair.java","execute":"java -Xmx128M -Xms16M Airline","preview":"","command":"","file":"/home/cg/src/samples/HelloWorld.java","url":"compile_java_online.php","mode":"java"}
